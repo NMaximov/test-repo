@@ -1,2 +1,3 @@
 print("Welcome");
 print ("Внес изменения в second branch");
+print("Conflict");
